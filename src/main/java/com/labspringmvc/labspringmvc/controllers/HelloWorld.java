@@ -1,4 +1,4 @@
-package network.webtech.labspringmvc.controllers;
+package com.labspringmvc.labspringmvc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
